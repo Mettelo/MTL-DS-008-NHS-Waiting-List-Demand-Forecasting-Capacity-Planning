@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# IDE / OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Raw / processed data
+data/raw/*.csv
+data/raw/*.zip
+data/raw/*.xlsx
+data/processed/*.csv
+data/processed/*.parquet
+
+# Model artifacts
+models/*.pkl
+models/*.joblib
+
+# Notebook
+.ipynb_checkpoints/
+
+# Temporary outputs
+outputs/tmp/

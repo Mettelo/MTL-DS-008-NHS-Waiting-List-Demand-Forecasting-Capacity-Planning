@@ -83,3 +83,13 @@ Explain refresh/retraining/model-performance monitoring.
 - [ ] Documentation complete
 - [ ] Mettelo reviewer has access
 - [ ] Final tag created
+
+
+## Mettelo Organisation Access
+
+**Mettelo organisation access granted:** Yes / No  
+**Access verified before submission:** Yes / No  
+
+The submission is not complete until the Mettelo GitHub organisation can access and review the delivery repository.
+
+Mettelo access must remain active until review and verification are complete.
